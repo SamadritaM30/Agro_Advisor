@@ -7,7 +7,7 @@ An AI-enabled advisory system designed to empower Indian farmers with timely and
 ## 📌 Overview
 
 The Agro Advisory System is a multi-modal AI solution that helps farmers:
-- Understand and categorize their queries (in text/voice/image format)
+- Understand and categorize their queries 
 - Retrieve relevant answers from structured data & documents (RAG)
 - Get predictive insights (e.g., crop yield, soil fertility)
 - Receive actionable, personalized recommendations
@@ -61,7 +61,23 @@ The Agro Advisory System is a multi-modal AI solution that helps farmers:
 - 📈 ML Insight: Predicted low yield if left untreated  
 - 💡 Action: Spray fungicide X , suggested
 
+
 ---
+
+## 📚 Datasets -
+
+  https://www.kaggle.com/datasets/samadritam30/farmer-queries
+  PPT OF DATASET HUNT : https://www.canva.com/design/DAGpSkbv4h8/_JbKRh31dfXYJ-3FnlrrdQ/edit?utm_content=DAGpSkbv4h8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+> **Input (Text)**: _"My tomato plants have white spots on leaves, what should I do?"_
+
+- ✅ Intent: Crop Disease  
+- 🔍 RAG Answer: “This symptom indicates powdery mildew. You can use sulfur-based fungicides...”  
+- 📈 ML Insight: Predicted low yield if left untreated  
+- 💡 Action: Spray fungicide X , suggested
+
+---
+
 
 ## 💡 Vision
 
