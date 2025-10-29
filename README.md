@@ -69,6 +69,10 @@ The Agro Advisory System is a multi-modal AI solution that helps farmers:
   https://www.kaggle.com/datasets/samadritam30/farmer-queries
   PPT OF DATASET HUNT : https://www.canva.com/design/DAGpSkbv4h8/_JbKRh31dfXYJ-3FnlrrdQ/edit?utm_content=DAGpSkbv4h8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+---
+
+## 🧪 Sample Use Case
+
 > **Input (Text)**: _"My tomato plants have white spots on leaves, what should I do?"_
 
 - ✅ Intent: Crop Disease  
@@ -77,7 +81,6 @@ The Agro Advisory System is a multi-modal AI solution that helps farmers:
 - 💡 Action: Spray fungicide X , suggested
 
 ---
-
 
 ## 💡 Vision
 
